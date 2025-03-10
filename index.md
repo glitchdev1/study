@@ -2,8 +2,8 @@
 layout: default
 ---
 [Presentaion Tools](./another-page.html).
-# GalimPro
+# GalimPro גלים פרו
 [➡️](https://pro.galim.org.il/)
-## vSchool
+## vSchool בית ספר וירטואלי
 [➡️](https://my.edu.gov.il/home)
 
